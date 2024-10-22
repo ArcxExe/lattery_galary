@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "latter-galary"
+version = "0.1.0"
+description = ""
+authors = ["ArcxExe <net.c0reunity@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.2"
+pydantic = "^2.9.2"
+unicorn = "^2.1.1"
+uvicorn = "^0.32.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
