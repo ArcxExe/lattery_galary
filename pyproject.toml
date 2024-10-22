@@ -9,7 +9,6 @@ readme = "README.md"
 python = "^3.12"
 fastapi = "^0.115.2"
 pydantic = "^2.9.2"
-unicorn = "^2.1.1"
 uvicorn = "^0.32.0"
 
 
